@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+building+things+with+code.;Explore+my+projects+below!" alt="Typing SVG" />
 </p>
 
-  <p align="center"><sub><em>📂 Currently having 7 repositories with 16+ projects</em></sub></p>
+  <p align="center"><sub><em>📂 Currently having 8 repositories with 16+ projects</em></sub></p>
   
 ---
 
