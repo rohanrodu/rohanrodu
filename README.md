@@ -4,8 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+building+things+with+code.;Explore+my+projects+below!" alt="Typing SVG" />
 </p>
-
-  <p align="center"><sub><em>📂 Currently having 8 repositories with 16+ projects</em></sub></p>
   
 ---
 
@@ -28,7 +26,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,python,java,aws,html,css,git,github,vscode,figma,flutter" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,python,java,aws,html,css,git,github,vscode,figma,flutter" alt="Tech Stack" />
 </p>
 
 ---
